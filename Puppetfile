@@ -1,4 +1,4 @@
-forget "https://forge.puppetlabs.com/"
+forge "https://forge.puppetlabs.com/"
 
 mod 'helloworld',
 	:git => 'https://github.com/nickcolyer/puppet-helloworld.git',
